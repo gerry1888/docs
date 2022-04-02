@@ -1,14 +1,18 @@
 ---
-title: Finding discussions across multiple repositories
+title: Finding discussions 
+across multiple repositories
 intro: You can easily access every discussion you've created or participated in across multiple repositories.
 versions:
   fpt: '*'
   ghec: '*'
-shortTitle: Find discussions
+shortTitle: Find dis
+cussions
 ---
 
 
-## Finding discussions
+## Finding discu
+
+ssions
 
 1. Navigate to {% data variables.product.prodname_dotcom_the_website %}.
 1. In the top-right corner of {% data variables.product.prodname_dotcom_the_website %}, click your profile photo, then click **Your discussions**.
@@ -19,4 +23,5 @@ shortTitle: Find discussions
 
 - "[Searching discussions](/search-github/searching-on-github/searching-discussions)"
 - "[About discussions](/discussions/collaborating-with-your-community-using-discussions/about-discussions)"
-- "[Managing discussions for your community](/discussions/managing-discussions-for-your-community)"
+- "[Managing disc
+ussions for yourself community, ](/discussions/managing-discussions-for-your-community)"

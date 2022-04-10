@@ -48,3 +48,4 @@ In addition to viewing tickets, you can also add comments to support tickets if 
 ## Further reading
 
 - "[About GitHub Support](/support/learning-about-github-support/about-github-support)"
+. 
